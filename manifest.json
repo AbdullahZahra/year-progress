@@ -1,0 +1,11 @@
+{
+  "name": "Year's Progress",
+  "version": "1.0.0",
+  "description": "Live update of year's progress",
+  "manifest_version": 3,
+  "author": "Abdullah Zahra",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Year's Progress"
+  }
+}
