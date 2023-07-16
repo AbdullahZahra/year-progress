@@ -33,7 +33,7 @@ function updateYear() {
   const day = Math.floor(diff / oneDay);
 
   year.innerText = `${Math.floor((day / 365) * 100)}%`;
-  alert(`We are ${Math.floor((day / 365) * 100)}% through the year!`);
+  // alert(`We are ${Math.floor((day / 365) * 100)}% through the year!`);
 }
 
 function percentage() {}
